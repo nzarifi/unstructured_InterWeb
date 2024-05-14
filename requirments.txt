@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+unstructured
+langchain
+wget
+requests
+langchain-community
+langchain-text-splitters
+langchain-chat-models
+langchain-core
+langchain-chroma
+langchain-openai
